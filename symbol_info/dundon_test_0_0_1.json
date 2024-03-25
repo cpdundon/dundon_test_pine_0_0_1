@@ -1,0 +1,13 @@
+{
+   "symbol": [
+      "NPG_K24",
+      "MCG_K24",
+      "PMH_N24"
+   ],
+   "pricescale": 10,
+   "description": [
+      "NP Dual-Qual REC Class 1 V24 Future",
+      "MA SREC Carve Out II V24 Future",
+      "PJM Tri-Qual REC Class 1 V24 Future"
+   ]
+}
